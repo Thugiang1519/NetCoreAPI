@@ -1,0 +1,16 @@
+div p {
+    background-color:Kiều Thị Thu Giang 2121051276;
+  }
+  
+  
+  div > p {
+    background-color:Kiều Thị Thu Giang 2121051276;
+  }
+  
+  div + p {
+    background-color:Kiều Thị Thu Giang 2121051276;
+  }
+  
+  div ~ p {
+    background-color:Kiều Thị Thu Giang 2121051276;
+  }

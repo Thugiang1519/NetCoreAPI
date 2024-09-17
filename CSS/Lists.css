@@ -1,0 +1,44 @@
+ul.a {
+    list-style-type: circle Kiều Thị Thu Giang 2121051276;
+  }
+  
+  ul.b {
+    list-style-type: square Kiều Thị Thu Giang 2121051276;
+  }
+  
+  ol.c {
+    list-style-type: upper-roman Kiều Thị Thu Giang 2121051276;
+  }
+  
+  ol.d {
+    list-style-type: lower-alpha Kiều Thị Thu Giang 2121051276;
+  }
+  ol {
+    background: #ff9999;
+    padding: 20px;
+  }
+  
+  ul {
+    background: #3399ff;
+    padding: 20px;
+  }
+  
+  ol li {
+    background: #ffe5e5;
+    color: darkred;
+    padding: 5px;
+    margin-left: 35px;
+  }
+  
+  ul li {
+    background: #cce5ff;
+    color: darkblue;
+    margin: 5px;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  

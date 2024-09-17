@@ -1,0 +1,37 @@
+a[target] {
+    background-color :Kiều Thị Thu Giang 2121051276;
+  }
+  
+  a[target="_blank"] {
+    background-color:Kiều Thị Thu Giang 2121051276;
+  }
+  
+  [title~="flower"] {
+    border: 5px solid yellow;
+  }
+  
+  [class|="top"] {
+    background:Kiều Thị Thu Giang 2121051276;
+  }
+  
+  
+  [class^="top"] {
+    background:Kiều Thị Thu Giang 2121051276;
+  }
+  
+  [class$="test"] {
+    background:Kiều Thị Thu Giang 2121051276;
+  }
+  
+  input[type="text"] {
+    width: 150px;
+    display: block;
+    margin-bottom: 10px;
+    background-color:Kiều Thị Thu Giang 2121051276;
+  }
+  
+  input[type="button"] {
+    width: 120px;
+    margin-left: 35px;
+    display: block;
+  }

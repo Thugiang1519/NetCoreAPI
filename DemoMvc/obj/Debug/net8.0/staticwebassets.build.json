@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "k4lC6o/5M2X04ECeuWgbffBMMfbfsvkpWHRqfDD/i8o=",
+  "Hash": "w6fsiLhxmUC+iMpo30r7ZZNAiQ5Tr8FRrYb0EA8FjkE=",
   "Source": "DemoMvc",
   "BasePath": "_content/DemoMvc",
   "Mode": "Default",
@@ -53,6 +53,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\PTPM\\DemoMvc\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DemoMvc.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\PTPM\\DemoMvc\\wwwroot\\css\\Login.css",
+      "SourceId": "DemoMvc",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\PTPM\\DemoMvc\\wwwroot\\",
+      "BasePath": "_content/DemoMvc",
+      "RelativePath": "css/Login.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Login.css"
     },
     {
       "Identity": "C:\\PTPM\\DemoMvc\\wwwroot\\css\\site.css",

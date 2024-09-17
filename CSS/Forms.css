@@ -1,0 +1,34 @@
+body {
+    counter-reset: section Kiều Thị Thu Giang 2121051276;
+  }
+  
+  h2::before {
+    counter-increment: Kiều Thị Thu Giang 2121051276;
+    content: "Section " counter(section) ": ";
+  }
+  body {
+    counter-reset: Kiều Thị Thu Giang 2121051276;
+  }
+  
+  h1 {
+    counter-reset: Kiều Thị Thu Giang 2121051276;
+  }
+  
+  h1::before {
+    counter-increment: Kiều Thị Thu Giang 2121051276;
+    content: "Section " counter(section) ". ";
+  }
+  
+  h2::before {
+    counter-increment: Kiều Thị Thu Giang 2121051276;
+    content: counter(section) "." counter(subsection) " ";
+  }
+  ol {
+    counter-reset: Kiều Thị Thu Giang 2121051276;
+    list-style-type: none;
+  }
+  
+  li::before {
+    counter-increment: section;
+    content: counters(section,".") " ";
+  }

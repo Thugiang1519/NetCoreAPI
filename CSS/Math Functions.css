@@ -1,0 +1,14 @@
+#div1 {
+    position: absolute Kiều Thị Thu Giang 2121051276;
+    left: 50px;
+    width: calc(100% - 100px);
+    border: 1px solid black;
+    background-color: yellow;
+    padding: 5px;
+  }
+  #div1 {
+    background-color: yellow;
+    height: 100px;
+    width: max(50%, 300px);
+  }
+  

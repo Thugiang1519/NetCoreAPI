@@ -1,0 +1,36 @@
+p {
+    text-align: center;
+    color:Kiều Thị Thu Giang 2121051276;
+  }
+  
+  #para1 {
+    text-align: center;
+    color:Kiều Thị Thu Giang 2121051276;
+  }
+  
+  
+  * {
+    text-align: center;
+    color:Kiều Thị Thu Giang 2121051276;
+  }
+  
+  h1 {
+    text-align: center;
+    color:Kiều Thị Thu Giang 2121051276;
+  }
+  
+  h2 {
+    text-align: center;
+    color: red;
+  }
+  
+  p {
+    text-align: center;
+    color: red;
+  }
+  
+  
+  h1, h2, p {
+      text-align: center;
+      color: red;
+    }

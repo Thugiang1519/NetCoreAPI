@@ -1,0 +1,19 @@
+/* This is a single-line comment :Kiều Thị Thu Giang 2121051276*/
+p {
+    color: red;
+  }
+  
+  p {
+    color: red;  /* Set text color to red :Kiều Thị Thu Giang 2121051276*/
+  }
+  /* This is
+  a multi-line
+  comment:Kiều Thị Thu Giang 2121051276 */
+  
+  p {
+    color: red;
+  }
+  
+  p {
+    color: /*red*/blue; 
+  }

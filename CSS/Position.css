@@ -1,0 +1,45 @@
+div.static {
+    position:Kiều Thị Thu Giang 2121051276;
+    border: 3px solid #73AD21;
+  }
+  
+  
+  div.relative {
+    position:Kiều Thị Thu Giang 2121051276;
+    left: 30px;
+    border: 3px solid #73AD21;
+  }
+  
+  div.fixed {
+    position:Kiều Thị Thu Giang 2121051276;
+    bottom: 0;
+    right: 0;
+    width: 300px;
+    border: 3px solid #73AD21;
+  }
+  
+  
+  div.relative {
+    position:Kiều Thị Thu Giang 2121051276;
+    width: 400px;
+    height: 200px;
+    border: 3px solid #73AD21;
+  }
+  
+  div.absolute {
+    position:Kiều Thị Thu Giang 2121051276;
+    top: 80px;
+    right: 0;
+    width: 200px;
+    height: 100px;
+    border: 3px solid #73AD21;
+  }
+  
+  
+  div.sticky {
+    position: -webkit-sticky; /* Safari */
+    position:Kiều Thị Thu Giang 2121051276;
+    top: 0;
+    background-color: green;
+    border: 2px solid #4CAF50;
+  }
